@@ -4,6 +4,7 @@ class DEMO{
 	int b=20;
 	int c=a+c;
 	     System.out.println("addition"+c);
+	      System.out.println("a value "+a);
 	     
 
      }
